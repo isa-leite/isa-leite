@@ -22,7 +22,8 @@ Comecei a aprender através de cursos e estou focada em evoluir minhas habilidad
 
 - Python  
 - HTML  
-
+- CSS
+- JavaScript
 ---
 
 ## 🎯 Objetivos
