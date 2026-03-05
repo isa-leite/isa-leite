@@ -24,6 +24,10 @@ Comecei a aprender através de cursos e estou focada em evoluir minhas habilidad
 - HTML  
 - CSS
 - JavaScript
+- sqlite
+- power bi
+- Microsoft excel
+- Microsoft word
 ---
 
 ## ⟡ Objetivos
