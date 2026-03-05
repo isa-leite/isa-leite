@@ -1,24 +1,24 @@
-# 🧸ྀི  Olá! Eu sou Isabella Leite
+#  ⋆˚࿔ bella, 15 anos 𝜗𝜚˚⋆
 
  Estudante de programação e desenvolvedora iniciante  
  São Paulo, Brasil  
 
 ---
 
-## ☆ Sobre mim
+## ⟡ Sobre mim
 
 Atualmente estou estudando programação e iniciando minha jornada como desenvolvedora.  
 Comecei a aprender através de cursos e estou focada em evoluir minhas habilidades para trabalhar com tecnologia.
 
 ---
 
-## ☆ Área de interesse
+## ⟡ Área de interesse
 
  Desenvolvimento Web
 
 ---
 
-## ☆ Atualmente aprendendo
+## ⟡ Atualmente aprendendo
 
 - Python  
 - HTML  
@@ -26,7 +26,7 @@ Comecei a aprender através de cursos e estou focada em evoluir minhas habilidad
 - JavaScript
 ---
 
-## ☆ Objetivos
+## ⟡ Objetivos
 
 - Criar projetos para melhorar minhas habilidades  
 - Construir um portfólio no GitHub  
@@ -34,7 +34,7 @@ Comecei a aprender através de cursos e estou focada em evoluir minhas habilidad
 
 ---
 
-## ☆ Um pouco mais sobre mim
+## ⟡ Um pouco mais sobre mim
 
 -  Gosto de ler
 -  Gosto de assistir séries
@@ -42,13 +42,13 @@ Comecei a aprender através de cursos e estou focada em evoluir minhas habilidad
 
 ---
 
-## ☆ Projetos
+## ⟡ Projetos
 
  Ainda não tenho projetos publicados, mas em breve vou compartilhar meus primeiros projetos aqui!
 
 ---
 
-## ☆ Contato
+## ⟡ Contato
 
 - GitHub: https://github.com/isa-leite
 
